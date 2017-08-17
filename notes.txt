@@ -1,0 +1,9 @@
+go through how-to-npm, learnyounode and learnyouexpress repeat each one like 3 times till you can do it pretty good
+
+Watch this playlist - THENEWBOSTON - https://www.youtube.com/watch?v=-u-j7uqU7sI&list=PL6gx4Cwl9DGBMdkKFn3HasZnnAqVjzHn_
+
+Then Watch this - DEREK BANAS - https://www.youtube.com/watch?v=xDCKcNBFsuI&list=PLGLfVvz_LVvSpxyVx5XcprEgvhJ1BzruD
+
+DO THIS TUT - https://scotch.io/tutorials/build-a-restful-api-using-node-and-express-4
+
+look at all the basic tuts on https://scotch.io/

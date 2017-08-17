@@ -1,0 +1,47 @@
+/****** Main Styling ******/
+
+body {
+	font-family: 'Roboto', sans-serif;
+	font-size: 16px;
+	color: #222;
+	background-color: #ECF0F1;
+	text-align: center;
+}
+
+.container {
+	padding: 0;
+	margin-top: 40px;
+}
+
+.footer {
+	margin-top: 60px;
+}
+
+h4 {
+  text-align: left;
+  margin-left: 200px;
+  text-decoration: underline;
+}
+
+ol {
+	list-style-position: inside;
+  text-align: left;
+  margin-left: 200px;
+  margin-right: 200px;
+}
+
+ul {
+	list-style-type: none;
+  text-align: left;
+  margin-left: 200px;
+}
+
+a {
+	color: #2574A9;
+}
+/****** Logo Div Styling ******/
+
+img {
+	margin: 20px auto 0 auto;
+	display: block;
+}
